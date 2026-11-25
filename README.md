@@ -1,1 +1,0 @@
-# Brain-mri-ai-analyser
